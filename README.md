@@ -47,9 +47,7 @@ I am a dedicated and results-driven **Full Stack Developer** with expertise in b
 
 ### 📫 How to reach me
 - Email: [syedehteshamali22@gmail.com](mailto:syedehteshamali22@gmail.com)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ehtesham-syed-484659213/)
 
 #### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtesham-syed-484659213/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ehte22/Ehte22/)
 

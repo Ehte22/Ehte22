@@ -1,7 +1,7 @@
 ## Hi, I'm Ehtesham Syed 👋
 
 ### About Me
-I am a dedicated and results-driven **Full Stack Developer** with expertise in building dynamic, responsive, and scalable web applications. With a strong foundation in both front-end and back-end technologies, I specialize in **React**, **Angular**, **Node.js**, **MongoDB**, **Express.js**, and a broad range of modern development tools and frameworks. My passion lies in leveraging cutting-edge technologies to deliver high-quality solutions that enhance user experience and drive business growth.
+I am a dedicated and results-driven **Full Stack Developer** with expertise in building dynamic, responsive, and scalable web applications. With a strong foundation in both front-end and back-end technologies, I specialize in **React**, **Node.js**, **MongoDB**, **Express.js**, and a broad range of modern development tools and frameworks. My passion lies in leveraging cutting-edge technologies to deliver high-quality solutions that enhance user experience and drive business growth.
 
 ### 🧑‍💻 Skills
 

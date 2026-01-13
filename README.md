@@ -45,9 +45,6 @@ I am a dedicated and results-driven **Full Stack Developer** with expertise in b
 &nbsp; 
 ![Microfrontend](https://img.shields.io/badge/Microfrontend-000000?style=flat&logo=webpack&logoColor=white)
 
-### 📫 How to reach me
-- Email: [ehteshamsyed619@gmail.com](mailto:ehteshamsyed619@gmail.com)
-
 #### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ehte22/Ehte22/)
 
